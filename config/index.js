@@ -83,8 +83,7 @@ export const config = {
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
         // 在一起的日子
-        {"keyword": "love_day", date: "2017-07-18"},
-        {"keyword": "encourage_oneself", contents: "今天也不要忘记打卡哦~"}
+        {"keyword": "love_day", date: "2017-07-18"}
       ]
     },
     {
@@ -95,8 +94,7 @@ export const config = {
       city: "郑州",
       openUrl: "https://baidu.com",
       festivals: [{"type": "*生日", "name": "老婆", "year": "1999", "date": "01-17"}],
-      customizedDateList: [{"keyword": "love_day", date: "2017-07-18"},
-                          {"keyword": "encourage_oneself", contents: "今天也不要忘记打卡哦~"}]
+      customizedDateList: [{"keyword": "love_day", date: "2017-07-18"}]
     },
     {
       name: "老婆2",
@@ -218,7 +216,7 @@ export const config = {
     * */
   SLOT_LIST: [
     // 这样配置的话，就会每次发送这句话
-    {"keyword": "encourage_oneself", contents: "你主要的问题在于读书太少而想得太多"},
+    {"keyword": "encourage_oneself", contents: "今天也不要忘记打卡哦~"},
     // 这样配置的话，就会每次随机选一句话发送
     {"keyword": "lover_prattle", contents: [
       "因为太喜欢你，所以看谁都像是情敌。",
