@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oL5r16COw8jkVPH9EJkb7o_SQEMA",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "joAW9X04o9qtl7X4QZQHZabRhnZd_ZYr_FxragLcx7g",
+      useTemplateId: "bsUl_Xv7tejNb3VPe9BjcHnDtPpCmSfhEWHf2rZNLcY",
       // 所在省份
       province: "河南",
       // 所在城市
@@ -89,7 +89,7 @@ export const config = {
     {
       name: "老6",
       id: "oL5r16DjRozAJeRbk0ASyLXU5U1U",
-      useTemplateId: "joAW9X04o9qtl7X4QZQHZabRhnZd_ZYr_FxragLcx7g",
+      useTemplateId: "bsUl_Xv7tejNb3VPe9BjcHnDtPpCmSfhEWHf2rZNLcY",
       province: "河南",
       city: "郑州",
       openUrl: "https://baidu.com",
